@@ -1,3 +1,10 @@
+---
+layout: post
+title: "MagicDesigners Review"
+date: 2025-03-11
+categories: [reviews, tech]
+---
+
 # MagicDesigners Review: Unlock your creative potential with H.A.I. and create stunning, sales-focused graphics without any design skills.
 <p>&nbsp;</p><h1>MagicDesigners Review: Unlock your creative potential with H.A.I. and create stunning, sales-focused graphics without any design skills.
 </h2>

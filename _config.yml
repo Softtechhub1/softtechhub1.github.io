@@ -1,6 +1,19 @@
 title: SoftTechHub
 description: Exploring tech tools for marketing, monetization, and AI
 theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# Ensure Jekyll processes blog posts
+future: true
+include: ["_posts"]
+
+# Set permalink format for clean URLs
+permalink: /:title/
+
+# Enable collections if you're using them
+collections:
+  my_collection:
+    output: true
